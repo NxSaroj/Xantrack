@@ -9,6 +9,8 @@
   import SiteDev from './SiteDev.svelte';
   import AboutPremium from './AboutPremium.svelte';
   import ThePremiumFeatures from './ThePremiumFeatures.svelte';
+  import Faq from './Faq.svelte';
+  import FaqText from './FaqText.svelte';
 </script>
 
 <body>
@@ -21,6 +23,8 @@
 <AboutPremium />
 <Alerts />
 <ThePremiumFeatures /> 
+<FaqText />
+<Faq />
 
 </body>
 
